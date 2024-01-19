@@ -61,11 +61,6 @@ const router = createBrowserRouter([
     element: <Register/>,
     errorElement: <Error/>,
   },
-  {
-    path: '/',
-    element: <HomeLayout/>,
-    errorElement: <Error/>,
-  },
 ]);
 
 const App = () => {
