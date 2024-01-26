@@ -1,16 +1,16 @@
 import React from "react";
 
-const FormInput = ({ label, name, type, defaultValue }) => {
+const FormInput = ({ label, name, type, defaultValue, size }) => {
     return (
-        <div class="form-control">
-            <div class="label">
-                <span class="label-text capitalize">{label}</span>
+        <div className="form-control">
+            <div className="label">
+                <span className="label-text capitalize">{label}</span>
             </div>
             <input 
                 type={type}
                 name={name}
                 defaultValue={defaultValue}
-                class="input input-bordered"
+                className={`input input-bordered ${size}`}
              />
         </div>
     );
