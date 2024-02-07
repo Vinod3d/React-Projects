@@ -27,7 +27,7 @@ import {loader as ordersLoader} from './pages/Orders';
 // actions
 import { action as registerAction } from './pages/Register';
 import { action as loginAction } from './pages/Login';
-import { action as checkoutAction } from './components/CheckoutForm';
+import { action as checkoutAction } from './components/checkoutForm';
 import { store } from './store';
 
 
