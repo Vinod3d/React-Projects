@@ -48,7 +48,7 @@ export const action =
     }
   };
 
-const CheckoutFormm = () => {
+const CheckoutForm = () => {
   return (
     <Form method='POST' className='flex flex-col gap-y-4'>
       <h4 className='font-medium text-xl capitalize'>shipping information</h4>
@@ -60,4 +60,4 @@ const CheckoutFormm = () => {
     </Form>
   );
 };
-export default CheckoutFormm;
+export default CheckoutForm;
