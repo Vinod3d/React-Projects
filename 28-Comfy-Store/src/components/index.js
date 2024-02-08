@@ -9,7 +9,7 @@ export { default as SectionTitle } from './SectionTitle';
 export { default as Filters } from './Filters';
 export { default as ProductsContainer } from './ProductsContainer';
 export { default as PaginationContainer } from './PaginationContainer';
-export { default as Loading } from './Loading';
+export { default as Loading } from './Loading.jsx';
 export { default as CartTotals } from './CartTotals';
 export { default as CartItemsList } from './CartItemsList';
 export { default as CheckoutForm } from './CheckoutForm';
