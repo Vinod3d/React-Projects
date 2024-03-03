@@ -5,11 +5,11 @@
 | No. |   Project Name    |                    Demo Link                           |
 | :-: | :---------------: | :---------------------------------------------:        |
 |  1  | Birthday-reminder | [Link](https://birthday-reminder-pi-ashy.vercel.app/)  |
-|  2  | Tours             |   [Link](https://tours-vinod3d.vercel.app/)          |
-|  3  | Reviews           | [Link](https://review-slide.netlify.app/)        |
-|  4  | Accordion         |  [Link](https://accordion-red.vercel.app/)                     --                               |
-|  5  | Menu              |  [Link](......)        |
-|  6  | Tabs              |  [Link](https://drumkitplaying.netlify.app/)           |
+|  2  | Tours             |   [Link](https://tours-vinod3d.vercel.app/)            |
+|  3  | Reviews           | [Link](https://review-slide.netlify.app/)              |
+|  4  | Accordion         |  [Link](https://accordion-red.vercel.app/)             |
+|  5  | Menu              |  [Link](https://menu-vinod3d.vercel.app/)        |
+|  6  | Tabs              |  [Link](https://tabs-liard.vercel.app/)           |
 |  7  | Slider            |                                                        |
 |  8  | Lorem-ipsum       |                                                        |
 |  9  | Color-generator   |   [Link](https://drumkitplaying.netlify.app/)          |

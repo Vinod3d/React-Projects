@@ -14,20 +14,3 @@ const FormInput = ({ label, name, type, defaultValue, size }) => {
   );
 };
 export default FormInput;
-
-
-db.col.aggregate([
-  {
-    $project:{
-      name:1,
-      thapaValue:{
-        $filter:{
-          input: '$values',
-          as: 'val',
-          cond: {$gt: ['$$val', 30]}
-        }
-      }
-    }
-  }
-]);
-
